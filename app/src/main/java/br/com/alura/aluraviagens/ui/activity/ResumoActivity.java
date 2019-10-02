@@ -13,7 +13,7 @@ public class ResumoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resumo);
 
-        Pacote pacoteSao = new Pacote("São Paulo", "sao_paulo_sp", 2, "243.99");
+        Pacote pacoteSaoPaulo = new Pacote("São Paulo", "sao_paulo_sp", 2, "243.99");
 
     }
 }
